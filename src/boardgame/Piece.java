@@ -27,7 +27,6 @@ public abstract class Piece {
 					return true;
 				}
 			}
-			
 		}
 		return false;
 	}
